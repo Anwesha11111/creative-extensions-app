@@ -15,7 +15,11 @@ Imagine a creative workspace that understands what you want to make and gives yo
 
 🚀 What Is This?
 
-This is a next-generation creativity platform that uses AI to dynamically suggest and install extensions based on your creative intent. Instead of hunting through menus or learning complex interfaces, you simply describe what you want to create, and the app intelligently recommends the perfect tool for the job.✨ The VisionTraditional creative apps force you to learn every feature upfront, whether you need them or not. This project flips that model:
+This is a next-generation creativity platform that uses AI to dynamically suggest and install extensions based on your creative intent. Instead of hunting through menus or learning complex interfaces, you simply describe what you want to create, and the app intelligently recommends the perfect tool for the job.
+
+✨ The Vision
+
+Traditional creative apps force you to learn every feature upfront, whether you need them or not. This project flips that model:
 
 Intent-Driven: Tell the AI "I want to sketch some ideas" and get a drawing canvas
 
@@ -61,7 +65,9 @@ Collaborative Spaces: Teams build together with AI-curated toolsets
 
 💡 Why This Matters
 
-The Problem: Modern creative software is either too simple (limiting) or too complex (overwhelming). Power users want flexibility; beginners want simplicity.The Solution: AI-mediated interfaces that present complexity only when needed, making professional-grade tools accessible to everyone.This project explores how AI can fundamentally reimagine user interfaces—not just as chatbots bolted onto existing apps, but as intelligent orchestration layers that dynamically compose functionality based on user intent.
+The Problem: Modern creative software is either too simple (limiting) or too complex (overwhelming). Power users want flexibility; beginners want simplicity.
+
+The Solution: AI-mediated interfaces that present complexity only when needed, making professional-grade tools accessible to everyone.This project explores how AI can fundamentally reimagine user interfaces—not just as chatbots bolted onto existing apps, but as intelligent orchestration layers that dynamically compose functionality based on user intent.
 
 🎓 Technical Innovation
 
