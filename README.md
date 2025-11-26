@@ -9,10 +9,12 @@ A creativity workspace that uses AI to suggest and install extensions based on w
 - Text editor
 - Color palette generator
 - Mood board
+  
 🎨 AI-Powered Creative Extensions App
 Imagine a creative workspace that understands what you want to make and gives you exactly the tools you need—automatically.
 
 🚀 What Is This?
+
 This is a next-generation creativity platform that uses AI to dynamically suggest and install extensions based on your creative intent. Instead of hunting through menus or learning complex interfaces, you simply describe what you want to create, and the app intelligently recommends the perfect tool for the job.✨ The VisionTraditional creative apps force you to learn every feature upfront, whether you need them or not. This project flips that model:
 
 Intent-Driven: Tell the AI "I want to sketch some ideas" and get a drawing canvas
