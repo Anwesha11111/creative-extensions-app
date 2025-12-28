@@ -63,6 +63,11 @@ Cross-Platform: Extensions work seamlessly across web, mobile, and desktop
 
 Collaborative Spaces: Teams build together with AI-curated toolsets
 
+##Screenshots
+<div align="center">
+  ![Hero](2.png)
+</div>
+
 💡 Why This Matters
 
 The Problem: Modern creative software is either too simple (limiting) or too complex (overwhelming). Power users want flexibility; beginners want simplicity.
